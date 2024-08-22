@@ -59,6 +59,9 @@ body{
 .nav-option p{
   cursor: pointer;
 }
+.ham-burger{
+  display: none;
+}
 /* Banner Styles */
 .banner{
   width: 60%;
